@@ -22,4 +22,4 @@ are my own additions.
 - Footer
 
 ## Live demo
-[View on GitHub Pages](#) ← paste your link here
+[View on GitHub Pages](https://nakul28062007.github.io/meow-mart-bootstrap-landing)
